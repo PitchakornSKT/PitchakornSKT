@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there 👋 I'm Pitchakorn
 
-<!--
-**PitchakornSKT/PitchakornSKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Science student at Khon Kaen University  
+- 💻 Passionate about **web development** and **mobile app development**  
+- 🚀 Currently working on:  
+  - Student Marketplace (a platform for students to buy & sell)  
+  - Emergency Alert System (for quick incident reporting in university)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, Java  
+- **Frontend:** React, React Native, HTML, CSS, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pitchakorn&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitchakorn&layout=compact&theme=tokyonight)  
+
+---
+
+## Get in touch
+- 📧 Email: pitchakorn.sa@kkumail.com
+- 🔗 LinkedIn: 
+- 🌐 Portfolio: (https://pitchakornskt.github.io/profile.io/)
